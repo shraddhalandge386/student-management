@@ -1,0 +1,4 @@
+Student Dashboard
+Total Students
+Attendance
+Results
